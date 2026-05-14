@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/chandra-dev/:/"
+    "/content/chandra-dev/:/",
+    "/content/chandra-dev/configuration:/.helix/config.json",
+    "/content/chandra-dev/metadata:/metadata.json"
   ],
   "includes": [
     "/content/chandra-dev/"
